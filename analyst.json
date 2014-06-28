@@ -103,5 +103,10 @@
         "level": "21",
         "version": "??",
         "string": "%1$s L"
+    },
+    {
+        "level": "10000",
+        "version": "??",
+        "string": "L developer preview"
     }
 ]
