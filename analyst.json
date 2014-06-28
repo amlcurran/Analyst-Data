@@ -1,0 +1,107 @@
+[
+    {
+        "level": "1",
+        "version": "1.0",
+        "string": "Android %1$s"
+    },
+    {
+        "level": "2",
+        "version": "1.2",
+        "string": "Android %1$s"
+    },
+    {
+        "level": "3",
+        "version": "1.5",
+        "string": "%1$s Cupcake"
+    },
+    {
+        "level": "4",
+        "version": "1.6",
+        "string": "%1$s Doughnut"
+    },
+    {
+        "level": "5",
+        "version": "2.0",
+        "string": "%1$s Eclair"
+    },
+    {
+        "level": "6",
+        "version": "2.0.1",
+        "string": "%1$s Eclair"
+    },
+    {
+        "level": "7",
+        "version": "2.1",
+        "string": "%1$s Eclair"
+    },
+    {
+        "level": "8",
+        "version": "2.2",
+        "string": "%1$s Froyo"
+    },
+    {
+        "level": "9",
+        "version": "2.3",
+        "string": "%1$s Gingerbread"
+    },
+    {
+        "level": "10",
+        "version": "2.3.3",
+        "string": "%1$s Gingerbread"
+    },
+    {
+        "level": "11",
+        "version": "3.0",
+        "string": "%1$s Honeycomb"
+    },
+    {
+        "level": "12",
+        "version": "3.1",
+        "string": "%1$s Honeycomb MR1"
+    },
+    {
+        "level": "13",
+        "version": "3.2",
+        "string": "%1$s Honeycomb MR2"
+    },
+    {
+        "level": "14",
+        "version": "4.0",
+        "string": "%1$s Ice Cream Sandwich"
+    },
+    {
+        "level": "15",
+        "version": "4.0.3",
+        "string": "%1$s ICS MR1"
+    },
+    {
+        "level": "16",
+        "version": "4.1",
+        "string": "%1$s Jelly Bean"
+    },
+    {
+        "level": "17",
+        "version": "4.2",
+        "string": "%1$s Jelly Bean MR1"
+    },
+    {
+        "level": "18",
+        "version": "4.3",
+        "string": "%1$s Jelly Bean MR2"
+    },
+    {
+        "level": "19",
+        "version": "4.4",
+        "string": "%1$s KitKat"
+    },
+    {
+        "level": "20",
+        "version": "L developer preview",
+        "string": "%1$s"
+    },
+    {
+        "level": "21",
+        "version": "??",
+        "string": "%1$s L"
+    }
+]
