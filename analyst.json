@@ -110,6 +110,11 @@
         "string": "%1$s Lollipop"
     },
     {
+        "level": "23",
+        "version": "6.0",
+        "string": "%1$s Marshmallow"
+    },
+    {
         "level": "10000",
         "version": "??",
         "string": "L developer preview"
